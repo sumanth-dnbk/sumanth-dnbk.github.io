@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sumanth-reddy-333ab3150/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "sumanth-reddy-333ab3150/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@stumbled001/videos"
+  youtube          : "@stumbled001/"
   wikipedia        :
 
 
