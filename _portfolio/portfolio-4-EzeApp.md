@@ -1,6 +1,6 @@
 ---
 title: "Eze Mobile app "
-excerpt: "Built an app in React Native that can be used for stock trading and portfolio management<br/><img src='/images/EzeApp.png'>"
+excerpt: "Built an app in React Native that can be used for stock trading and portfolio management<br/><img src='/images/ezeApp.png'>"
 collection: portfolio5
 ---
 * Collaborated with a team 4 to develop a Eze mobile app for stock trading and portfolio management for 
