@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a graduate student at the University at Buffalo.
 
 📚 I'm currently working towards my Master's degree in the field of Software Systems and Algorithm Design.
