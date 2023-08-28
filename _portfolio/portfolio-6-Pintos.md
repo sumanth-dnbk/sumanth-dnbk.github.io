@@ -1,6 +1,6 @@
 ---
 title: "PintOS"
-excerpt: "Adding functionality to PintOS 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Adding functionality to PintOS 2 <br/><img src='/images/pintos.png'>"
 collection: portfolio
 ---
 * Implemented the Pintos operating system, a simple OS written in C that runs on 32-bit x86 architecture.

@@ -1,6 +1,6 @@
 ---
 title: "Disease Spread simulation using MPI"
-excerpt: "Simulation of spread of a disease ,across groups with varying spread and caution parameters, using MPI to understand Amdhal's and Gustafson's law<br/><img src='/images/500x300.png'>"
+excerpt: "Simulation of spread of a disease ,across groups with varying spread and caution parameters, using MPI to understand Amdhal's and Gustafson's law<br/><img src='/images/dispr.png'>"
 collection: portfolio4
 ---
 * Devised a disease spread simulation to evaluate performance gains through parallel processing.

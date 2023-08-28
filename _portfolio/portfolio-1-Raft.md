@@ -1,6 +1,6 @@
 ---
 title: "Raft protocol for distributed consesnus"
-excerpt: "Implementation of Raft using Golang to achieve distributed consensus <br/><img src='/images/500x300.png'>"
+excerpt: "Implementation of Raft using Golang to achieve distributed consensus <br/><img src='/images/raft.png'>"
 collection: portfolio
 ---
 

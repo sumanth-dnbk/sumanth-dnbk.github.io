@@ -1,6 +1,6 @@
 ---
 title: "Authorization server using OAuth 2.0"
-excerpt: "Implementation of OAuth 2.0 Authorization Server for Delegated Authorization of Resources.<br/><img src='/images/500x300.png'>"
+excerpt: "Implementation of OAuth 2.0 Authorization Server for Delegated Authorization of Resources.<br/><img src='/images/OAuth.png'>"
 collection: portfolio6
 ---
 * Collaborated in a team of 5 to create a server on OAuth 2.0 to authenticate and authorize services.

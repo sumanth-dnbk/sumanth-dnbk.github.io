@@ -16,8 +16,6 @@ redirect_from:
 
 📽️ I am also interested in assisting others on their path in the world of Software Development and academia.
 
-# Selected Experience
-
 ## 👨🏻‍🔬 Professional Experience
 Additionally, I have professional experience working as an **Software Developer** at the SS&C Eze. \
 There I worked on building mobile applications in React Native and desktop applications in .NET for the company.

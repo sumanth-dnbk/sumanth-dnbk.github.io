@@ -1,6 +1,6 @@
 ---
 title: "Kademlia: a distributed hash table algorithm"
-excerpt: "Implementation of Kademlia using Golang to create a distributed hash table <br/><img src='/images/500x300.png'>"
+excerpt: "Implementation of Kademlia using Golang to create a distributed hash table <br/><img src='/images/Kademlia.png'>"
 collection: portfolio3
 ---
 
